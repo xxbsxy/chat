@@ -523,7 +523,7 @@ const openaiModels = [
 ];
 
 const googleModels = [
-  "gemini-2.0-pro-exp-06-05",
+  "gemini-2.5-pro-preview-06-05",
 ];
 
 const anthropicModels = [
